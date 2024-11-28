@@ -1,1 +1,1 @@
-# EncriptacionLogin
+Ejercicio de encriptación con login simple.
